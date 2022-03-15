@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\bin\Debug\Infraestructure.dll
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\bin\Debug\Infraestructure.pdb
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\obj\Debug\Infraestructure.dll
-C:\Users\User\Desktop\Repositorio\NotePad\Infraestructure\obj\Debug\Infraestructure.pdb

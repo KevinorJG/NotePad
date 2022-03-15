@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\bin\Debug\AppCore.dll
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\bin\Debug\AppCore.pdb
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\obj\Debug\AppCore.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\obj\Debug\AppCore.dll
-C:\Users\User\Desktop\Repositorio\NotePad\AppCore\obj\Debug\AppCore.pdb
