@@ -8,3 +8,31 @@ C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.Domain\obj\Debug\netstan
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.dll
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.pdb
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.deps.json
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.dll
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.pdb
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csprojAssemblyReference.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfoInputs.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfo.cs
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.dll
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.pdb
+F:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.deps.json
+F:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.dll
+F:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.pdb
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csprojAssemblyReference.cache
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csproj.CoreCompileInputs.cache
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfoInputs.cache
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfo.cs
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.dll
+F:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.pdb
+D:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.deps.json
+D:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.dll
+D:\NotePad\BlockNotas\BlockNotas.Domain\bin\Debug\netstandard2.0\BlockNotas.Domain.pdb
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csproj.AssemblyReference.cache
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfoInputs.cache
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.AssemblyInfo.cs
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.csproj.CoreCompileInputs.cache
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.dll
+D:\NotePad\BlockNotas\BlockNotas.Domain\obj\Debug\netstandard2.0\BlockNotas.Domain.pdb

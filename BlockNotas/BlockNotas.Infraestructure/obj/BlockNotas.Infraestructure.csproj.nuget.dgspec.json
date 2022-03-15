@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj": {}
+    "D:\\NotePad\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj": {
+    "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
+        "projectUniqueName": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
         "projectName": "BlockNotas.Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
+        "projectPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\obj\\",
+        "outputPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj": {
+    "D:\\NotePad\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj",
+        "projectUniqueName": "D:\\NotePad\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj",
         "projectName": "BlockNotas.Infraestructure",
-        "projectPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj",
+        "projectPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Infraestructure\\BlockNotas.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Infraestructure\\obj\\",
+        "outputPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj"
+              "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj": {
+                "projectPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj"
               }
             }
           }

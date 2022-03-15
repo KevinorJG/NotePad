@@ -14,23 +14,43 @@ namespace BlockNotas
 
     public partial class Form1 : Form
     {
-        string directory, fileName;
+        //Instancia de objetos y variables a utiliza
         string directoryOpen, fileNameOpen;
+        string open;
+        SaveFileDialog saveFile = new SaveFileDialog();
+        OpenFileDialog openFile = new OpenFileDialog();
+        FileInfo file;
+
         public Form1()
         {
             InitializeComponent();
+           
+
+        }
+        private void LoadFolder(TreeNodeCollection nodes, DirectoryInfo folder)
+        {
+            var newNode = nodes.Add(folder.Name);
+            foreach (var childFolder in folder.EnumerateDirectories())
+            {
+                LoadFolder(newNode.Nodes, childFolder);
+            }
+            foreach (FileInfo file in folder.EnumerateFiles())
+            {
+                newNode.Nodes.Add(file.Name);
+            }
         }
 
         private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //Accion guardar como
-            SaveFileDialog saveFile = new SaveFileDialog();
             saveFile.Filter = "Archivo de Texto .txt|*.txt";
             saveFile.Title = "Guardar Texto";
             saveFile.ShowDialog();
-            fileName = saveFile.FileName;
-            directory = saveFile.InitialDirectory;
-            if (fileName == string.Empty)
+
+            file = new FileInfo(saveFile.FileName);
+
+ 
+            if (file.Name == string.Empty)
             {
                 MessageBox.Show("Debe de agregar un nombre", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -38,46 +58,74 @@ namespace BlockNotas
             {
                 try
                 {
-                    using (StreamWriter write = new StreamWriter(directory + fileName))
+                    using (StreamWriter write = new StreamWriter(file.DirectoryName+file.Name))
                     {
                         write.Write(textBoxBody.Text);
+                      
                     }
                 }
                 catch (IOException)
                 {
-                    Console.WriteLine("Guardado con exito");
+                    MessageBox.Show("No se guardó el archivo", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     throw;
                 }
 
             }
+            //Añadir los direcctorios al treeView
+            treeView1.BeginUpdate();
+            treeView1.Nodes.Add(file.DirectoryName + file.Name);
+            treeView1.EndUpdate();
 
         }
 
-        private void SaveFile_FileOk(object sender, CancelEventArgs e)
+        private void SalirToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            this.Close();
         }
 
-        private void pegarToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void CortarToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            //Accion pegar en el block
+            if (textBoxBody.SelectedText != "")
+
+                textBoxBody.Cut();
         }
 
-        private void cortarToolStripMenuItem_Click(object sender, EventArgs e)
+        private void PegarStripMenuItem1_Click(object sender, EventArgs e)
         {
-            //Accion cortar en el documento
+            textBoxBody.Paste();
         }
 
-        private void copiarToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void CopiarToolStripMenuItem1_Click_1(object sender, EventArgs e)
         {
-            //Accion copiar en el documento
+            if (textBoxBody.SelectionLength > 0)
+
+                textBoxBody.Copy();
+        }
+
+        private void TreeView1_DoubleClick(object sender, EventArgs e)
+        {
+            
+            if(treeView1 != null)
+            {
+                open = treeView1.SelectedNode.Text;
+            }
+
+            using (StreamReader sr = new StreamReader(open))
+            {
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(line);
+                    textBoxBody.Text = line;
+                }
+                sr.Close();
+            }
         }
 
         private void abrirToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            
-            OpenFileDialog openFile = new OpenFileDialog();
-            
+            //Accion abrir
+
             try
             {
                 openFile.ShowDialog();
@@ -97,17 +145,18 @@ namespace BlockNotas
                 
             }
 
-            catch (IOException x)
+            catch (IOException )
             {
 
                 MessageBox.Show("Error While Opening the File "+ directoryOpen + fileNameOpen,"Error",MessageBoxButtons.OK,MessageBoxIcon.Error );
-                Console.WriteLine(x.Message);
+;
             }
 
         }
 
         private void estiloToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
+            //Accion cambiar fuente
             FontDialog fontDialog = new FontDialog();
             fontDialog.ShowDialog();
             var font = fontDialog.Font;

@@ -12,3 +12,43 @@ C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.For
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.dll
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.pdb
 C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CopyComplete
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe.config
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.pdb
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.dll
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.pdb
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csprojAssemblyReference.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Form1.resources
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Properties.Resources.resources
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.GenerateResource.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CoreCompileInputs.cache
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CopyComplete
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.exe
+C:\Users\JADPA27\Desktop\Nueva carpeta\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.pdb
+F:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe.config
+F:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe
+F:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.pdb
+F:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.dll
+F:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.pdb
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csprojAssemblyReference.cache
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Form1.resources
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Properties.Resources.resources
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.GenerateResource.cache
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CoreCompileInputs.cache
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CopyComplete
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.exe
+F:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.pdb
+D:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe.config
+D:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe
+D:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.pdb
+D:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.dll
+D:\NotePad\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.pdb
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.AssemblyReference.cache
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.SuggestedBindingRedirects.cache
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Form1.resources
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Properties.Resources.resources
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.GenerateResource.cache
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CoreCompileInputs.cache
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CopyComplete
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.exe
+D:\NotePad\BlockNotas\BlockNotas\obj\Debug\BlockNotas.pdb
