@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
       "projectName": "BlockNotas.Domain",
-      "projectPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\BlockNotas.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\NotePad\\BlockNotas\\BlockNotas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Repositorio\\BlockNotas\\BlockNotas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\bin\Debug\netstandard2.0\BlockNotas.AppCore.deps.json
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\bin\Debug\netstandard2.0\BlockNotas.AppCore.dll
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\bin\Debug\netstandard2.0\BlockNotas.AppCore.pdb
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\bin\Debug\netstandard2.0\BlockNotas.Domain.dll
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\bin\Debug\netstandard2.0\BlockNotas.Domain.pdb
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.AssemblyInfo.cs
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.csproj.CopyComplete
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.dll
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas.AppCore\obj\Debug\netstandard2.0\BlockNotas.AppCore.pdb
