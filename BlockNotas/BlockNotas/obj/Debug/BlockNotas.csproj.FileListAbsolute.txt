@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe.config
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.pdb
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Properties.Resources.resources
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.exe
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.pdb
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Form1.resources
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.dll
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\bin\Debug\BlockNotas.Infraestructure.pdb
+C:\Users\User\Desktop\Repositorio\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CopyComplete
